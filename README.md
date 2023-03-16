@@ -1,6 +1,6 @@
 ![INFORMS_Journal_on_Computing_Header](https://user-images.githubusercontent.com/44605491/208304431-b02fb847-3ca7-4dd5-9f27-06535ec90737.jpeg)
 
-# Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method
+# [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284)
 
 ## Citation
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
