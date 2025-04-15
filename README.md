@@ -2,10 +2,8 @@
 
 # [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284)
 
-## Citation
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
 
-If you use the code in this repository, please cite the paper "Ran Y, Liu J, Zhang Y (2022) [Integrating users’ contextual engagements with their general preferences: An interpretable followee recommendation method](https://doi.org/10.1287/ijoc.2023.1284). INFORMS Journal on Computing." 
+If you use the code in this repository, please cite the paper "Ran Y, Liu J, Zhang Y (2022) [Integrating users’ contextual engagements with their general preferences: An interpretable followee recommendation method](https://doi.org/10.1287/ijoc.2023.1284). INFORMS Journal on Computing." And cite the code with the following DOI: [https://doi.org/10.1287/ijoc.2023.1284.cd](https://doi.org/10.1287/ijoc.2023.1284.cd)
 
 Below is the BibTex for citing this version of the material. 
 ```
@@ -14,7 +12,7 @@ Below is the BibTex for citing this version of the material.
     publisher   = {INFORMS Journal on Computing}
     title     = {Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method},
     year      = {2022},
-    doi       = {10.5281/zenodo.7460938},
+    doi       = {10.1287/ijoc.2023.1284.cd},
     url       = {https://github.com/INFORMSJoC/2021.0172}   
 }
 ```
